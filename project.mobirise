@@ -1498,7 +1498,7 @@
         "title": "English",
         "meta_descr": "INSURANCE FOR AUTO / BUSINESS / HOME\nDMV SERVICES / TITLE CHANGES / TRANSFERS / PLATES / STICKERS / PUBLIC NOTARY SERVICES & TAX PREPARATION",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<!-- Load Facebook SDK for JavaScript -->\n      <div id=\"fb-root\"></div>\n      <script>\n        window.fbAsyncInit = function() {\n          FB.init({\n            xfbml            : true,\n            version          : 'v8.0'\n          });\n        };\n\n        (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';\n        fjs.parentNode.insertBefore(js, fjs);\n      }(document, 'script', 'facebook-jssdk'));</script>\n\n      <!-- Your Chat Plugin code -->\n      <div class=\"fb-customerchat\"\n        attribution=setup_tool\n        page_id=\"533355246822437\">\n      </div>",
         "html_before": ""
       },
       "components": [
