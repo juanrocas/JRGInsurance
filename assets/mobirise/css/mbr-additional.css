@@ -3099,3 +3099,32 @@ section.lazy-placeholder:after {
   width: auto;
   max-width: 100%;
 }
+.cid-CTYBrDb0pj .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 100px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-CTYBrDb0pj .my-float {
+  margin-top: 16px;
+}
+.cid-CTYBrDb0pj P {
+  color: #232323;
+}
+.cid-CTYBrDb0pj DIV {
+  color: #ffffff;
+}
+.cid-CTYBrDb0pj H10 {
+  color: #767676;
+}
+.cid-CTYBrDb0pj .hidden {
+  display: none;
+}
