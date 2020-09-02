@@ -3112,7 +3112,6 @@ section.lazy-placeholder:after {
   color: #ffffff;
   border-radius: 50%;
   text-align: center;
-  transition: 0.3s;
   z-index: 99999;
 }
 .cid-SQva7Ciliq .floating-bar:hover {
@@ -3122,7 +3121,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-SQva7Ciliq .valign {
-  position: relative;
+  position: fixed;
   top: 50%;
   transform: translateY(-50%);
 }
