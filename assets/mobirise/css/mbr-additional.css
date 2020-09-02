@@ -3099,29 +3099,3 @@ section.lazy-placeholder:after {
   width: auto;
   max-width: 100%;
 }
-.cid-SQva7Ciliq .hidden {
-  display: none;
-}
-.cid-SQva7Ciliq .floating-bar {
-  position: fixed;
-  width: 60px;
-  height: 60px;
-  bottom: 40px;
-  right: 40px;
-  background-color: #ffffff;
-  color: #ffffff;
-  border-radius: 50%;
-  text-align: center;
-  z-index: 99999;
-}
-.cid-SQva7Ciliq .floating-bar:hover {
-  background-color: #c1c1c1;
-}
-.cid-SQva7Ciliq .floating-button {
-  color: #ffffff;
-}
-.cid-SQva7Ciliq .valign {
-  position: fixed;
-  top: 50%;
-  transform: translateY(-50%);
-}
