@@ -2485,7 +2485,7 @@ section.lazy-placeholder:after {
   background-color: #00295c;
 }
 .cid-s9oY4766AE .card-icon {
-  font-size: 56px;
+  font-size: 72px;
   color: #ed4266;
   transition: color 0.3s;
 }
@@ -2563,6 +2563,11 @@ section.lazy-placeholder:after {
     flex: 0 0 100%;
     max-width: 100%;
   }
+}
+.cid-s9oY4766AE .mbr-text,
+.cid-s9oY4766AE .card-link {
+  color: #ffffff;
+  text-align: left;
 }
 .cid-s9oYiLX8tI {
   background-image: url("../../../assets/images/motleyfool-tmot-9aefc8b7-1040-tax-form-2-660x372.jpg");
